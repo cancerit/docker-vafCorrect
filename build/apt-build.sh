@@ -5,6 +5,7 @@ apt-get -yq update
 apt-get -yq install build-essential
 apt-get -yq install curl
 apt-get -yq install autoconf
+apt-get -yq  install apt-file
 apt-get -yq install zlib1g-dev
 apt-get -yq install libncurses5-dev
 apt-get -yq install libpstreams-dev
